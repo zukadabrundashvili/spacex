@@ -1,0 +1,19 @@
+.shipment-list {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    padding: 0;
+    margin: 20px 60px;
+}
+
+.shipment {
+    background-color: #fafafa;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.2);
+    margin: 10px;
+    padding: 10px;
+    width: 100%;
+    cursor: pointer;
+}
